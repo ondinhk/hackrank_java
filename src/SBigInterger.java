@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class SBigInterger {
     public static void main(String[] args) {
+        // BingInteger
         Scanner sc = new Scanner(System.in);
         BigInteger n1 = new BigInteger(sc.next());
         BigInteger n2 = new BigInteger(sc.next());
